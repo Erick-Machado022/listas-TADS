@@ -20,5 +20,6 @@ public class ex005 {
 
         System.out.println("A temperatura em graus celsius é : " + celsius);
 
+        in.close();
     }
 }

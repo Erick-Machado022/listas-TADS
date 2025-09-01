@@ -22,6 +22,6 @@ public class ex006 {
         //saida
         System.out.println("A media das notas foi: " + media);
 
-
+        in.close();
     }
 }

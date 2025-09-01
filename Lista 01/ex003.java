@@ -23,6 +23,6 @@ public class ex003 {
         System.out.println("O quadrado de " + num + " é: " + quadrado);
 
 
-
+        in.close();
     }
 }
