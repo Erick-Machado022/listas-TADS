@@ -21,5 +21,6 @@ public class ex001{
 
         System.out.println("O valor informado foi: " + num + " e seu sucessor e " + posterior );
 
+        in.close();
     }
 }

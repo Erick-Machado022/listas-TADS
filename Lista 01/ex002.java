@@ -21,6 +21,6 @@ public class ex002 {
         System.out.println(atualizado);
 
 
-
+        in.close();
     }
 }
