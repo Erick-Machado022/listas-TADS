@@ -12,6 +12,7 @@ public class loja {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
+        
         int num_mercadoria = 0;
         int total_mercadoria = 0;
         float valor_mercadoria = 0;
