@@ -1,6 +1,6 @@
 //Ler um número inteiro n. Decidir se n é um número primo e apresente o resultado.
 
-package Lista04;
+
 
 import java.util.Scanner;
 

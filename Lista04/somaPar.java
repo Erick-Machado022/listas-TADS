@@ -1,6 +1,6 @@
 // Ler um número inteiro n. Escrever a soma de todos os números pares de 2 até n
 
-package Lista04;
+
 
 import java.util.Scanner;
 

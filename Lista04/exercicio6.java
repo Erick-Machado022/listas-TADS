@@ -4,7 +4,7 @@ lido não estiver entre 1 (inclusive) e 10 (inclusive), deve ser lido um novo va
 a leitura do valor, escrever o valor lido na tela.
  */
 
-package Lista04;
+
 
 import java.util.Scanner;
 

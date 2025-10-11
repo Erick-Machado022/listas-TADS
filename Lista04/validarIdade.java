@@ -1,4 +1,4 @@
-package Lista04;
+
 
 /*
  *Escreva um algoritmo para ler uma idade, mas o algoritmo deve aceitar somente
