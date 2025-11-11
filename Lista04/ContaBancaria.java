@@ -58,5 +58,6 @@ public class ContaBancaria {
             }
         }
         System.out.println("Programa finalizado.");
+        in.close();
     }
 }

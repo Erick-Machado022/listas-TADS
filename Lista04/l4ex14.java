@@ -34,6 +34,6 @@ public class l4ex14 {
         System.out.printf("Quantidade de valores entre 0 e 10: %d%n", contIntervalo);
         System.out.printf("Multiplicação dos valores no intervalo (0 a 10): %d%n", multi);
         System.out.printf("Soma dos valores fora do intervalo: %d%n", soma);
-
+    in.close();
     }
 }

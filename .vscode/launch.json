@@ -1,0 +1,260 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "QuadracoOco",
+            "request": "launch",
+            "mainClass": "Desenhos.QuadracoOco",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "RetanguloCheio",
+            "request": "launch",
+            "mainClass": "Desenhos.RetanguloCheio",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "quadradoCheio",
+            "request": "launch",
+            "mainClass": "Desenhos.quadradoCheio",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "trianguloReto",
+            "request": "launch",
+            "mainClass": "Desenhos.trianguloReto",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "L4ex10",
+            "request": "launch",
+            "mainClass": "L4ex10",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "L4ex11",
+            "request": "launch",
+            "mainClass": "L4ex11",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "L4ex12",
+            "request": "launch",
+            "mainClass": "L4ex12",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "L4ex13",
+            "request": "launch",
+            "mainClass": "L4ex13",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "SomaNumeros",
+            "request": "launch",
+            "mainClass": "SomaNumeros",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex001",
+            "request": "launch",
+            "mainClass": "ex001",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex002",
+            "request": "launch",
+            "mainClass": "ex002",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex003",
+            "request": "launch",
+            "mainClass": "ex003",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex004",
+            "request": "launch",
+            "mainClass": "ex004",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex005",
+            "request": "launch",
+            "mainClass": "ex005",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex006",
+            "request": "launch",
+            "mainClass": "ex006",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex007",
+            "request": "launch",
+            "mainClass": "ex007",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex01",
+            "request": "launch",
+            "mainClass": "ex01",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex02",
+            "request": "launch",
+            "mainClass": "ex02",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex03",
+            "request": "launch",
+            "mainClass": "ex03",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "ex04",
+            "request": "launch",
+            "mainClass": "ex04",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "exercicio6",
+            "request": "launch",
+            "mainClass": "exercicio6",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "l4ex14",
+            "request": "launch",
+            "mainClass": "l4ex14",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "l4ex15",
+            "request": "launch",
+            "mainClass": "l4ex15",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "l4ex16",
+            "request": "launch",
+            "mainClass": "l4ex16",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "l4ex17",
+            "request": "launch",
+            "mainClass": "l4ex17",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "l4ex18",
+            "request": "launch",
+            "mainClass": "l4ex18",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "l8ex1",
+            "request": "launch",
+            "mainClass": "l8ex1",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "loja",
+            "request": "launch",
+            "mainClass": "loja",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "media",
+            "request": "launch",
+            "mainClass": "media",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "nPrimo",
+            "request": "launch",
+            "mainClass": "nPrimo",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "senha",
+            "request": "launch",
+            "mainClass": "senha",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "somaPar",
+            "request": "launch",
+            "mainClass": "somaPar",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "listas TADS_7326e70b"
+        },
+        {
+            "type": "java",
+            "name": "validarIdade",
+            "request": "launch",
+            "mainClass": "validarIdade",
+            "projectName": "listas TADS_7326e70b"
+        }
+    ]
+}

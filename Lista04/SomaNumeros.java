@@ -19,5 +19,7 @@ public class SomaNumeros {
             System.out.println(soma); // use println para cada resultado sair em linha
             cont++;
         }
+
+        in.close();
     }
 }

@@ -51,5 +51,7 @@ public class l4ex17 {
             cont++;
         }
 
+        in.close();
+
     }
 }

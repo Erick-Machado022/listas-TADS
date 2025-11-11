@@ -25,7 +25,7 @@ public class L4ex10 {
         }  
 
         
-        
+        in.close();
     }
 }
 

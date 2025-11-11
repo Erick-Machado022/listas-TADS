@@ -41,6 +41,6 @@ public class nPrimo {
 
         
 
-
+        in.close();
     }
 }

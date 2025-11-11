@@ -30,6 +30,7 @@ public class L4ex13 {
 
         media = (maior + maior2) /2;
         System.out.println("A media das maiores notas são: " + media);
+        in.close();
 
     }
 }

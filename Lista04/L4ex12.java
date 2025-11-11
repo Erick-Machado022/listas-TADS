@@ -23,5 +23,6 @@ public class L4ex12 {
             }
         }
         System.out.println(num + " é multiplo de 5");
+        in.close();
     }
 }

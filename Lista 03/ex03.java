@@ -23,6 +23,7 @@ public class ex03 {
                 System.out.println("E não é divisivel por 5");
         }
 
+        in.close();
     }
 
 }

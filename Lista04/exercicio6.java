@@ -23,5 +23,6 @@ public class exercicio6 {
             }
         }
         System.out.println(num);
+        in.close();
     }
 }

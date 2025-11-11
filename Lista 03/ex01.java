@@ -16,5 +16,7 @@ public class ex01 {
         else if(num > 0){
             System.out.printf("O numero digitado é positivo");
         }
+
+        in.close();
     }
 }

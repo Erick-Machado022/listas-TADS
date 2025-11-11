@@ -23,5 +23,7 @@ public class somaPar {
             cont++;
         }
         System.out.println(soma);
+
+        in.close();
     }
 }

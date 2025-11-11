@@ -29,6 +29,7 @@ public class ex02 {
         }
 
         System.out.printf("Você é %s", classificação);
+        in.close();
     }
     
 }

@@ -20,5 +20,6 @@ public class media {
             System.out.println(cont);
         }
         System.out.printf("A media final das notas foi %.2f%n ", media/cont );
+        in.close();
     }
 }

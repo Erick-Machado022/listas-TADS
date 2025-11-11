@@ -39,6 +39,6 @@ public class l4ex15 {
             }
         }
        
-        
+        in.close();
     }
 }

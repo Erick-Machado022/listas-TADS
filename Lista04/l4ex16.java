@@ -23,5 +23,6 @@ public class l4ex16 {
             cont++;
         }
         System.out.println(num + " elevado a " + expo + " = " + resultado);
+        in.close();
     }
 }

@@ -31,6 +31,7 @@ public class ex04 {
 
         System.out.printf("Os Números informados foram %s , %s , %s, e o maior deles é %s",n1,n2,n3,maior);
 
+        in.close();
     }
 
 }
