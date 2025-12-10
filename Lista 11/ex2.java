@@ -1,0 +1,30 @@
+public class ex2 {
+    public static void main(String[] args) {
+        int [] [] matriz = {
+            {0,2,3,4,5},
+            {1,2,3,4,5},
+            {1,2,3,4,5},
+            {1,2,3,4,5},
+            {1,2,3,4,5}
+        };
+
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[i].length; j++) {
+                if (matriz[i] == matriz[j] ) {
+                    matriz[i][j] = 1; 
+                }else{
+                    matriz[i][j] = 0;
+                }
+            }
+        }
+
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[i].length; j++) {
+                System.out.print(matriz[i][j]);
+            }
+            System.out.println();
+        }
+
+        
+    }
+}
